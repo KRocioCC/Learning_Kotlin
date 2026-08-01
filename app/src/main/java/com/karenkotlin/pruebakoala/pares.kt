@@ -27,8 +27,6 @@ fun desc(a:Int){
 
     }
     println("suma pares: $sumap")
-
-
 }
 
 fun numpares(x:Int):Boolean{
